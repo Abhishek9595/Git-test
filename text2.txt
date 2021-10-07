@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 second file edited now updated
+=======
+second file final edit
+>>>>>>> branch1
